@@ -1,0 +1,10 @@
+html{
+  height: 100%;
+  font-family: "Montsserrat";
+
+  display: grid;
+  align-items: center;
+  justify-items: center;
+
+  --bg: #fcfcfc
+}
