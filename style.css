@@ -6,5 +6,9 @@ html{
   align-items: center;
   justify-items: center;
 
-  --bg: #fcfcfc
+  --bg: #fcfcfc;
+  --bg-panel: #ebebeb;
+  --color-headings: #0077ff;
+  --color-text: #333333;
+  
 }
