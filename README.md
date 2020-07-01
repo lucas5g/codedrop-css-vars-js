@@ -2,4 +2,4 @@
  
 ##Alteração dos temas Light/Dark
 
-<a href="https://lucas5g.github.io/codedrop-css-vars-js/" target="_blank">Veja o resultado aqui</a>
+[Veja o resultado aqui](https://lucas5g.github.io/codedrop-css-vars-js/)
